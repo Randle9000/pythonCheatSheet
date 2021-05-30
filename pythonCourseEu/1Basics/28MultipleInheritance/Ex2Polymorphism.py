@@ -1,0 +1,1 @@
+# Python is implicitly polymorphic. We can apply our previously defined function f even to lists, strings or other types, which can be printed: 

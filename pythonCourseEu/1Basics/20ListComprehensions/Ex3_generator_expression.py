@@ -1,0 +1,5 @@
+b = (x**2 for x in range(1,10))
+print(type(b))
+print(next(b))
+print(next(b))
+print(next(b))
