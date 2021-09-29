@@ -6,116 +6,69 @@
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdede35a-1634-4827-b442-ca111b332a38" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="fdede35a-1634-4827-b442-ca111b332a38" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/pluralsight/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/dispatching_on_type/E0_initial_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/dispatching_on_type/E1_first_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/dispatching_on_type/E2_Optimal_solution_functools_singledispatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/dispatching_on_type/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/switch_statements_emulations/E0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/switch_statements_emulations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/descriptors/E0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/descriptors/E1_fixed_E0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/descriptors/E2_better_E1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/descriptors/E3_better_E2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/descriptors/ZTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/descriptors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/instance_creation/E0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/instance_creation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/metaclasses/E0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/metaclasses/E1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/metaclasses/E2_other_method_in_metaclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/metaclasses/E3_python_real_constructor_dunder_call.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/metaclasses/E4_example_duplicate_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/metaclasses/E_Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/metaclasses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/object_internals_and_cutsom_attributes_TODO/E0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/object_internals_and_cutsom_attributes_TODO/E1_direct_vs_indirect_access_to_dict_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/advanced_python/object_internals_and_cutsom_attributes_TODO/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/core_python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/core_python/functions_and_functional_programming/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/core_python/functions_and_functional_programming/closures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/core_python/functions_and_functional_programming/closures/closures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/core_python/functions_and_functional_programming/closures/extended_argument_and_call_syntax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/core_python/functions_and_functional_programming/closures/function_and_callables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/core_python/functions_and_functional_programming/decorators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/core_python/functions_and_functional_programming/decorators/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/core_python/functions_and_functional_programming/decorators/parametrized_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/functional_style_tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/functional_style_tools/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/functional_style_tools/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/functional_style_tools/multi_input_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/iterators_iterables_collections/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/iterators_iterables_collections/collections/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/iterators_iterables_collections/collections/e1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/iterators_iterables_collections/iterators_iterables/E0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/iterators_iterables_collections/iterators_iterables/E1_filtering_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/iterators_iterables_collections/iterators_iterables/E2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pluralsight/python_beyond_basics/iterators_iterables_collections/iterators_iterables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_alchemy/updating_and_deleting_rows_with_core/E2_correlated_updates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_alchemy/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonCourseEu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonCourseEu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonCourseEu/1Basics/13Decorators/Ex1_FirstStep.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonCourseEu/1Basics/13Decorators/Ex1_FirstStep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonCourseEu/1Basics/13Decorators/Ex4_SimpleDec.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonCourseEu/1Basics/13Decorators/Ex4_SimpleDec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonCourseEu/1Basics/6loops/ForLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonCourseEu/1Basics/6loops/ForLoops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonCourseEu/1Basics/6loops/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonCourseEu/1Basics/6loops/Loops.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ex2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Math/Probability/Ex2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/random/setup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-631">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="randomkit.h" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/random/randomkit.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1880">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="info.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/random/info.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61">
-              <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_einsum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/core/tests/test_einsum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="661" column="24" lean-forward="false" selection-start-line="661" selection-start-column="24" selection-end-line="661" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ex4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/Probability/Ex4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ex3_two_functions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_NumericalPython/Matplotlib/Ex3_two_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ex4_Define_x_val.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_NumericalPython/Matplotlib/Ex4_Define_x_val.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,6 +82,17 @@
       <find>&gt;&gt;&gt;</find>
       <find>normal</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -191,6 +155,7 @@
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectId" id="1wAdPNeEOJmCXOgpyZeMzcvKhgB" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -466,207 +431,169 @@
       <pane id="Scratches" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/mateusz.klys/PycharmProjects/pythonCourseEu/listAndStrings/ListManipulations.py" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/25ClassAndInstanceAttributes/Ex1.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sql_alchemy/working_with_related_objects" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sql_alchemy/working_with_related_objects" />
+      <recent name="$PROJECT_DIR$/sql_alchemy/data_manipualtion_with_orm" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\10_python_projects\pythonCourseEu\Math\Probability" />
-      <recent name="D:\10_python_projects\pythonCourseEu\1Basics\3shallowAndDeepCOpy" />
-      <recent name="D:\10_python_projects\pythonCourseEu\2Advanced\2PythonAndTheShell" />
-      <recent name="D:\10_python_projects\pythonCourseEu\2Advanced\1IntroIntoSysModule" />
-      <recent name="D:\10_python_projects\pythonCourseEu\Basics" />
+      <recent name="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control" />
+      <recent name="$PROJECT_DIR$/pluralsight/python_beyond_basics" />
+      <recent name="$PROJECT_DIR$/pluralsight/core_python" />
+      <recent name="$PROJECT_DIR$/pluralsight/advanced_python" />
+      <recent name="$PROJECT_DIR$/pluralsight/dispatching_on_type" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Ex2 (1)">
-    <configuration default="false" name="Ex4_Define_x_val" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.E0 (2)">
+    <configuration name="E0 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCourseEu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_NumericalPython/Matplotlib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pluralsight/advanced_python/descriptors" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCourseEu" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_NumericalPython/Matplotlib/Ex4_Define_x_val.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pluralsight/advanced_python/descriptors/E0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="false" name="Ex5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="E0 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCourseEu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_NumericalPython/Matplotlib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pluralsight/advanced_python/instance_creation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCourseEu" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_NumericalPython/Matplotlib/Ex5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pluralsight/advanced_python/instance_creation/E0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="E0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCourseEu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math/Probability" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/switch_statements_emulations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCourseEu" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/Probability/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/switch_statements_emulations/E0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="false" name="Ex2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="E1_fixed_E0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCourseEu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math/Probability" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pluralsight/advanced_python/descriptors" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCourseEu" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/Probability/Ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pluralsight/advanced_python/descriptors/E1_fixed_E0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="false" name="Ex4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="E2_Optimal_solution_functools_singledispatch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCourseEu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math/Probability" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/dispatching_on_type" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCourseEu" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/Probability/Ex4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pluralsight/advanced_python/advanced_flow_control/dispatching_on_type/E2_Optimal_solution_functools_singledispatch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCourseEu" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCourseEu" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCourseEu" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="pythonCourseEu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCourseEu" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
+      <method v="2" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Ex4_Define_x_val" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Ex5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Ex2 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Ex4" />
+    <list>
+      <item itemvalue="Python.E2_Optimal_solution_functools_singledispatch" />
+      <item itemvalue="Python.E0" />
+      <item itemvalue="Python.E0 (1)" />
+      <item itemvalue="Python.E1_fixed_E0" />
+      <item itemvalue="Python.E0 (2)" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Ex2 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Ex4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Ex5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Ex4_Define_x_val" />
+      <list>
+        <item itemvalue="Python.E0 (2)" />
+        <item itemvalue="Python.E1_fixed_E0" />
+        <item itemvalue="Python.E0 (1)" />
+        <item itemvalue="Python.E0" />
+        <item itemvalue="Python.E2_Optimal_solution_functools_singledispatch" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fdede35a-1634-4827-b442-ca111b332a38" name="Default" comment="" />
@@ -733,8 +660,17 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -742,6 +678,96 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/1Basics/3shallowAndDeepCOpy/Ex1_shallowCopy.py</url>
           <line>15</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sql_alchemy/E2_executing _with_orm.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sql_alchemy/E2_executing _with_orm.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sql_alchemy/inserting_rows_from_core/E5_Inserting_rwos_with_core.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sql_alchemy/selecting_rows_with_core_or_orm/E16_subquery.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sql_alchemy/selecting_rows_with_core_or_orm/E16_subquery.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sql_alchemy/data_manipualtion_with_orm/E2_update.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sql_alchemy/working_with_related_objects/E1_persisting_and_loading_relationships.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_algorithms/Sequence_generator.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pluralsight/python_beyond_basics/iterators_iterables_collections/iterators_iterables/E0.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pluralsight/core_python/functions_and_functional_programming/closures/closures.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pluralsight/core_python/functions_and_functional_programming/decorators/decorators.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pluralsight/advanced_python/object_internals_and_cutsom_attributes_TODO/E0.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pluralsight/advanced_python/object_internals_and_cutsom_attributes_TODO/E0.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pluralsight/advanced_python/instance_creation/E0.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pluralsight/advanced_python/descriptors/E3_better_E2.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pluralsight/advanced_python/descriptors/E1_fixed_E0.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pluralsight/advanced_python/descriptors/ZTest.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pluralsight/advanced_python/descriptors/ZTest.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -751,9 +777,12 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="4" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="type(self)" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1Basics/19Lambdas/Filter.py">

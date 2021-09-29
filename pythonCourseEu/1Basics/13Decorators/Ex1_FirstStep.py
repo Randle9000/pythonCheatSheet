@@ -1,8 +1,10 @@
 def succ(x):
     return x + 1
 
+
 def_succ = succ ## function is an object!!
-del succ ##
+del succ
+
 print(def_succ(10))
 #succ(10) - cannot be invoke beacuse it is deleted.
 ###################################

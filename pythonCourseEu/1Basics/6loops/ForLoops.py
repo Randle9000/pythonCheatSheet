@@ -4,7 +4,6 @@ for x in lst:
     print(x)
     if x == 3:
         break
-
 else:
     print('kk')
 

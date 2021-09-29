@@ -10,7 +10,7 @@ while c < n:
         continue
     print(c)
 
-    if c == 25: # change c to 25 and you will se what happens
+    if c == 25: # change c to 15 and you will se what happens
         print(c)
         break
 
